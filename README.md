@@ -19,7 +19,7 @@ Integrantes:
 | [Sesión 2](./Sesión2) | Multi Hilos y procesos concurrentes |
 | [Sesión 3](./Sesion3) | Programación Funcional |
 | [Sesión 4](./Sesion4) | Procesos asíncronos |
-| [Sesión 5](./Sesion5) |Stream Reactivos |
+| [Sesión 5](./Sesión5) |Stream Reactivos |
 | [Sesión 6](./Sesion6) |Clases Genéricas |
 | [Sesión 7](./Sesion7) |Microservicios |
 | [Sesión 8](./Sesion8) |Buenas Prácticas |
