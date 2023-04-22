@@ -1,5 +1,4 @@
 package src.main.java;
-
 import java.util.concurrent.TimeUnit;
 
 class Reto1 implements Runnable{
