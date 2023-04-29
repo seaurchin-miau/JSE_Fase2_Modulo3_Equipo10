@@ -12,7 +12,7 @@ Integrantes:
 
 ## :bookmark_tabs: Carpetas de cada sesión:
 
-<img align="right" src="https://tenor.com/es-419/view/cat-typing-gif-22904866" alt="catCoding" width="200"/>
+<img align="right" src="https://tenor.com/es-419/view/cat-typing-gif-22904866"alt="catCoding" width="200"/>
 
 
 | Sesión                | Descripción                                                       |
