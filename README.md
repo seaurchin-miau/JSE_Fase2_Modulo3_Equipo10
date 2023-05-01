@@ -23,5 +23,5 @@ Integrantes:
 | [Sesión 4](./Sesion4/work) | Procesos asíncronos |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/async)|
 | [Sesión 5](./Sesion5/work) |Stream Reactivos |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/reactive)|
 | [Sesión 6](./Sesion6/work) |Clases Genéricas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
-| [Sesión 7](./Sesion7/work) |Microservicios |[Postwork](./Sesión7/Work/Postwork)|
+| [Sesión 7](./Sesion7/work) |Microservicios |[Postwork](./Sesión7/work/Postwork)|
 | [Sesión 8](./Sesion8/work) |Buenas Prácticas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/)|
