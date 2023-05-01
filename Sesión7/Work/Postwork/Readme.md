@@ -7,21 +7,21 @@
 
 ## 🚀 Desarrollo
 
-    - Crear empleado
+- Crear empleado
 
-        ![Prueba 1](img/img_02.png)
+   ![Prueba 1](img/img_02.png)
 
-    - Consultar empleados
+- Consultar empleados
     
-        ![Prueba 2](img/img_03.png)
+   ![Prueba 2](img/img_03.png)
 
-    - Consultar empleado por id
+- Consultar empleado por id
     
-        ![Prueba 3](img/img_04.png)
+   ![Prueba 3](img/img_04.png)
 
-    - Registros desde MongoDB Atlas
+- Registros desde MongoDB Atlas
 
-        ![Prueba 1](img/img_05.png)
+   ![Prueba 1](img/img_05.png)
 
 
 <br/>
