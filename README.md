@@ -15,13 +15,13 @@ Integrantes:
 <img align="right" src="https://media.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif" alt="catCoding" width="200"/>
 
 
-| Sesión                | Descripción                                                       |
-|-----------------------|-------------------------------------------------------------------|
-| [Sesión 1](./Sesión1) | Gestión de base de datos|
-| [Sesión 2](./Sesión2) | Multi Hilos y procesos concurrentes |
-| [Sesión 3](./Sesion3) | Programación Funcional |
-| [Sesión 4](./Sesion4) | Procesos asíncronos |
-| [Sesión 5](./Sesión5) |Stream Reactivos |
-| [Sesión 6](./Sesion6) |Clases Genéricas |
-| [Sesión 7](./Sesion7) |Microservicios |
-| [Sesión 8](./Sesion8) |Buenas Prácticas |
+| Sesión                | Descripción                                                       |Postwork en el Trabajo Final|
+|-----------------------|-------------------------------------------------------------------|---------|
+| [Sesión 1](./Sesión1) | Gestión de base de datos|[Sesión 1](./Sesión1)|
+| [Sesión 2](./Sesión2) | Multi Hilos y procesos concurrentes |[Sesión 1](./Sesión1)|
+| [Sesión 3](./Sesion3) | Programación Funcional |[Sesión 1](./Sesión1)|
+| [Sesión 4](./Sesion4) | Procesos asíncronos |[Sesión 1](./Sesión1)|
+| [Sesión 5](./Sesión5) |Stream Reactivos |[Sesión 1](./Sesión1)|
+| [Sesión 6](./Sesion6) |Clases Genéricas |[Sesión 1](./Sesión1)|
+| [Sesión 7](./Sesion7) |Microservicios |[Sesión 1](./Sesión1)|
+| [Sesión 8](./Sesion8) |Buenas Prácticas |[Sesión 1](./Sesión1)|
