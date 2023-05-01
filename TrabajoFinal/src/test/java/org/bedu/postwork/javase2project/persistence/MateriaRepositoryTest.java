@@ -1,6 +1,5 @@
 package org.bedu.postwork.javase2project.persistence;
 
-import org.bedu.postwork.javase2project.model.Curso;
 import org.bedu.postwork.javase2project.model.Estudiante;
 import org.bedu.postwork.javase2project.model.Materia;
 import org.junit.jupiter.api.BeforeAll;
@@ -13,55 +12,31 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 @ComponentScan(basePackages = "org.bedu.postwork.javase2project")
 @ExtendWith(SpringExtension.class)
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-class RepositoriesIntegrationTest {
-
+class MateriaRepositoryTest {
     @Autowired
-    private EstudianteRepository estudianteRepository;
-
-    @Autowired
-    private MateriaRepository materiaRepository;
-
+    private MateriaRepository repository;
     @Autowired
     private CursoRepository cursoRepository;
 
     @BeforeAll
-    void cleanDatabases(){
+    void cleanDatabase() {
         cursoRepository.deleteAll();
-        materiaRepository.deleteAll();
-        estudianteRepository.deleteAll();
+        repository.deleteAll();
     }
 
     @Test
-    @DisplayName("Prueba de creacion y guardado")
-    void Test(){
-        Estudiante estudiante = new Estudiante();
-        estudiante.setNombreCompleto("Estudiante Uno");
-        estudianteRepository.save(estudiante);
-
+    @DisplayName("Puede Guardar")
+    void canSave() {
         Materia materia = new Materia();
-        materia.setNombre("Materia");
-        materiaRepository.save(materia);
+        materia.setNombre("Base de Datos No Relacionales");
 
-        Curso curso = new Curso();
-        curso.setCiclo("2023");
-        curso.setMateria(materia);
-        Map<Estudiante, Integer> calificaciones = new HashMap<>();
-        calificaciones.put(estudiante, Curso.NO_CALIFICADO);
-        curso.setCalificaciones(calificaciones);
-        cursoRepository.save(curso);
-
-        assertNotNull(estudiante.getId());
+        materia = repository.save(materia);
         assertNotNull(materia.getId());
-        assertNotNull(curso.getId());
     }
-
 }
