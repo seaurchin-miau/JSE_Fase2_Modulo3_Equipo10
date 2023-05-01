@@ -15,7 +15,7 @@ import reactor.core.publisher.Mono;
 @RestController
 @RequestMapping("/empleados")
 public class DemoController {
-    
+
     @Autowired
     private EmpleadoRepository empleadoRepository;
 
