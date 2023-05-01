@@ -18,10 +18,10 @@ Integrantes:
 | Sesión                | Descripción                                                       |Postwork en el Trabajo Final|
 |-----------------------|-------------------------------------------------------------------|---------|
 | [Sesión 1](./Sesión1) | Gestión de base de datos|[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
-| [Sesión 2](./Sesión2) | Multi Hilos y procesos concurrentes |[Sesión 1](./Sesión1)|
-| [Sesión 3](./Sesion3) | Programación Funcional |[Sesión 1](./Sesión1)|
-| [Sesión 4](./Sesion4) | Procesos asíncronos |[Sesión 1](./Sesión1)|
-| [Sesión 5](./Sesión5) |Stream Reactivos |[Sesión 1](./Sesión1)|
-| [Sesión 6](./Sesion6) |Clases Genéricas |[Sesión 1](./Sesión1)|
-| [Sesión 7](./Sesion7) |Microservicios |[Sesión 1](./Sesión1)|
-| [Sesión 8](./Sesion8) |Buenas Prácticas |[Sesión 1](./Sesión1)|
+| [Sesión 2](./Sesión2) | Multi Hilos y procesos concurrentes |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/multithreading)|
+| [Sesión 3](./Sesion3) | Programación Funcional |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
+| [Sesión 4](./Sesion4) | Procesos asíncronos |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
+| [Sesión 5](./Sesión5) |Stream Reactivos |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
+| [Sesión 6](./Sesion6) |Clases Genéricas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
+| [Sesión 7](./Sesion7) |Microservicios |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
+| [Sesión 8](./Sesion8) |Buenas Prácticas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
