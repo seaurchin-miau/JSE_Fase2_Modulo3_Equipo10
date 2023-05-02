@@ -2,7 +2,7 @@
 
 Descripción
 
-<img align="right" src="https://www.freecodecamp.org/espanol/news/content/images/2022/08/freeCodeCamp-Cover-2.png" alt="DataBase" width="300"/>
+imagen
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
