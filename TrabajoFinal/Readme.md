@@ -1,41 +1,21 @@
-# Postwork 07: Microservicios
+# Trabajo Final
 
-## 🎩 Objetivo
+## 🎩 Resumen
 
-- Realizar microservicios a un servidor de MongoDB, para almacenar y consultar registros alojados en la base de datos.
-- A lo largo de este proyecto reafirmaremos lo que se ha aprendido durante las sesiones.
-
-## 🎯 Requisitos 
-
-- IntelliJ IDEA Community Edition
-- JDK (o OpenJDK)
-- Reto 03
+- Trabajo que reune los postwork del 1 al 8, excepto el postwork 7 que es otro proyecto aparte.
 
 ## 🚀 Desarrollo
 
-Completa las siguientes instrucciones para completar el séptimo postwork:
-
-1. Clona el proyecto del Reto 03: 
-
-2. En el archivo **pom** cambiar la siguiente dependencia:
-
-    ```xml
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-data-jpa</artifactId>
-    </dependency>
-    ```
-
-    Por la siguiente:
-
-    ```xml
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-data-mongodb-reactive</artifactId>
-    </dependency>
-    ```
-
-    **Tip** -> En caso de no encontrar la dependencia de jpa, agregar la de mongodb-reactive al inicio de las dependencias
+| Sesión                | Descripción                                                       |Postwork en el Trabajo Final|
+|-----------------------|-------------------------------------------------------------------|---------|
+| [Sesión 1](./Sesion1) | Gestión de base de datos|[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
+| [Sesión 2](./Sesion2) | Multi Hilos y procesos concurrentes |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/multithreading)|
+| [Sesión 3](./Sesion3) | Programación Funcional |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
+| [Sesión 4](./Sesion4) | Procesos asíncronos |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/async)|
+| [Sesión 5](./Sesion5) |Stream Reactivos |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/reactive)|
+| [Sesión 6](./Sesion6) |Clases Genéricas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
+| [Sesión 7](./Sesion7) |Microservicios |[Postwork](./Sesión7/work/Postwork)|
+| [Sesión 8](./Sesion8) |Buenas Prácticas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/)|
 
 
 <br/>
