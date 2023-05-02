@@ -7,7 +7,7 @@ procesos asíncronos. El objetivo de la sesión será utilizar la programación
 asíncrona y la Non-Blocking API de Java para ejecutar múltiples procesos de 
 forma paralela y esperar su respuesta o finalización.
 
-<img align="right" src="https://www.freecodecamp.org/espanol/news/content/images/2022/08/freeCodeCamp-Cover-2.png" alt="DataBase" width="500"/>
+<img align="right" src="https://www.freecodecamp.org/espanol/news/content/images/2022/08/freeCodeCamp-Cover-2.png" alt="DataBase" width="800"/>
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
