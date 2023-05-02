@@ -1,0 +1,5 @@
+Para este reto debes extender la aplicación que generamos en el ejemplo anterior, agregando una nueva entidad Product con los campos: id, 
+name y price. Esta entidad debe contar con su propio repositorio con métodos de búsqueda por id y nombre. Agrega también 
+algunas pruebas de éstos métodos a la clase principal.
+
+
