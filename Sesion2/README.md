@@ -7,7 +7,7 @@ que está sin usarse. Java nos permite construir programas multihilo con
 El objetivo de esta sesión es analizar el funcionamiento de ambas estrategias 
 así como aprender a crear y gestionar hilos con ellas.
 
-<img align="right" src="https://docplayer.es/docs-images/65/52853936/images/3-0.jpg" alt="DataBase" width="600"/>
+<img align="right" src="https://docplayer.es/docs-images/65/52853936/images/3-0.jpg" alt="DataBase" width="400"/>
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
