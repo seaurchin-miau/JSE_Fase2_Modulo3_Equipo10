@@ -7,7 +7,7 @@ interfaces para definir los métodos de consulta de la base, así como varias
 herramientas útiles (ORM), para facilitar el mapeo de información en JAVA (convertir 
 los datos de objetos a un formato manejable). 
 
-<img align="right" src="https://blog.kakaocdn.net/dn/s3HLE/btrhdeicykY/7plVbG3s19UlApciwCwpgk/img.png" alt="DataBase" width="300"/>
+<img align="right" src="https://blog.kakaocdn.net/dn/s3HLE/btrhdeicykY/7plVbG3s19UlApciwCwpgk/img.png" alt="DataBase" width="600"/>
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
