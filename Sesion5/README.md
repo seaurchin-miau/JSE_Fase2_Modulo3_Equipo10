@@ -14,6 +14,6 @@ Descripción
 
 <br>
 
-[**`Siguiente`** -> Sesión 05](../Sesion6)
+[**`Siguiente`** -> Sesión 06](../Sesion6)
 
 [**`Regresar`**](../../../)
