@@ -13,8 +13,8 @@ así como aprender a crear y gestionar hilos con ellas.
 
 | **Ejemplos**                           | **Retos**                          |
 |----------------------------------------|------------------------------------|
-| [Ejemplo #1](./work/Ejemplos/Ejemplo1) | [Reto #1](./work/Retos/Reto1/Reto1.java) |
-| [Ejemplo #2](./work/Ejemplos/Ejemplo2) | [Reto #2](./work/Retos/Reto2/Reto2.java)      |
+| [Ejemplo #1](./work/Ejemplos/Ejemplo1) | [Reto #1](./work/Retos/Reto1/) |
+| [Ejemplo #2](./work/Ejemplos/Ejemplo2) | [Reto #2](./work/Retos/Reto2/)      |
 | [Ejemplo #3](./work/Ejemplos/Ejemplo3) |
 
 <br>
