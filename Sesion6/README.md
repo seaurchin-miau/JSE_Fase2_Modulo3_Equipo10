@@ -2,7 +2,7 @@
 
 Descripción
 
-![image](https://user-images.githubusercontent.com/110350110/235718823-5583c843-3319-4644-8293-b99feaee1afe.png)
+<img align="right" src="https://user-images.githubusercontent.com/110350110/235718823-5583c843-3319-4644-8293-b99feaee1afe.png" width="600"/>
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
