@@ -8,7 +8,7 @@ paradigma de programación declarativo, una forma de programar más concisa. Si
 bien Java NO es un lenguaje de programación funcional, integra las expresiones 
 Lambda y Streams que nos permiten escribir código siguiendo este paradigma.
 
-<img align="right" src="https://www.patferraggi.dev/static/4e54b1635b9b0c795fa5ad93d3f82d00/ee604/cover.png" alt="DataBase" width="450"/>
+<img align="right" src="https://www.patferraggi.dev/static/4e54b1635b9b0c795fa5ad93d3f82d00/ee604/cover.png" alt="DataBase" width="500"/>
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
