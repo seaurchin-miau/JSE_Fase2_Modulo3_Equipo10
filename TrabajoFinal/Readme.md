@@ -20,6 +20,6 @@
 <br/>
 <br/>
 
-[Regresar ](../Readme.md)(Sesión 07)
+[Regresar ](../Sesion7)(Sesión 07)
 
-[Siguiente ](../../Sesion-08/Readme.md)(Sesión 08)
+[Siguiente ](../Sesion8)(Sesión 08)
