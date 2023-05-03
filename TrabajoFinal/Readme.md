@@ -20,6 +20,6 @@
 <br/>
 <br/>
 
-[Regresar ](../Sesion7)(Sesión 07)
+[Regresar ](../JSE_Fase2_Modulo3_Equipo10)
 
 [Siguiente ](../Sesion8)(Sesión 08)
