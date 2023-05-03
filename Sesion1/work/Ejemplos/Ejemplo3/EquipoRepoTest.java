@@ -1,6 +1,6 @@
-package org.bedu.javase2.ejemplo3.repositories;
+package org.bedu.javase2.repositories;
 
-import org.bedu.javase2.ejemplo3.models.Equipo;
+import org.bedu.javase2.models.Equipo;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
