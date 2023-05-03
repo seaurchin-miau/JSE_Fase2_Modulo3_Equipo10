@@ -12,7 +12,7 @@ Integrantes:
 
 ## :bookmark_tabs: Carpetas de cada sesión:
 
-<img align="right" src="https://media.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif" alt="catCoding" width="300"/>
+<img align="right" src="https://media.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif" alt="catCoding" width="200"/>
 
 
 | Sesión                | Descripción                                                       |Postwork para el [Trabajo Final](./TrabajoFinal)|
