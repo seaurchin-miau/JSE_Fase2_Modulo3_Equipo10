@@ -36,12 +36,12 @@ eficiencia administrativa y organización en la gestión de la información educ
 | Sesión                | Descripción                                                       |Postwork en el Trabajo Final|
 |-----------------------|-------------------------------------------------------------------|---------|
 | Sesión 1| Gestión de base de datos |[Postwork1](./src/main/java/org/bedu/postwork/javase2project/model)|
-| Sesión 2| Multi Hilos y procesos concurrentes |[Postwork2](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/multithreading)|
-| Sesión 3| Programación Funcional |[Postwork3](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
-| Sesión 4| Procesos asíncronos |[Postwork4](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/async)|
-| Sesión 5|Stream Reactivos |[Postwork5](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/reactive)|
-| Sesión 6|Clases Genéricas |[Postwork6](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
-| Sesión 8|Buenas Prácticas |[Postwork8](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/)|
+| Sesión 2| Multi Hilos y procesos concurrentes |[Postwork2](./src/main/java/org/bedu/postwork/javase2project/multithreading)|
+| Sesión 3| Programación Funcional |[Postwork3](./src/main/java/org/bedu/postwork/javase2project/tools)|
+| Sesión 4| Procesos asíncronos |[Postwork4](./src/main/java/org/bedu/postwork/javase2project/async)|
+| Sesión 5|Stream Reactivos |[Postwork5](./src/main/java/org/bedu/postwork/javase2project/reactive)|
+| Sesión 6|Clases Genéricas |[Postwork6](./src/main/java/org/bedu/postwork/javase2project/tools)|
+| Sesión 8|Buenas Prácticas |[Postwork8](./src/main/java/org/bedu/postwork/javase2project/)|
 
 <br/>
 <br/>
