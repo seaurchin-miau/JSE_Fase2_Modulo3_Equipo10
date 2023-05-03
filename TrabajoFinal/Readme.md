@@ -47,4 +47,4 @@ eficiencia administrativa y organización en la gestión de la información educ
 <br/>
 <br/>
 
-[Regresar ](./README.md)
+[**`Volver al Inicio`**](../../../)
