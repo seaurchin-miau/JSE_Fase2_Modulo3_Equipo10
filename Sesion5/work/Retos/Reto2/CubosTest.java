@@ -1,8 +1,8 @@
-@Test
-@DisplayName("Reto 1")
-void cubosFiltrados(){
-   Sumas.reto().subscribe(s -> assertThat(s).isEqualTo(405));
-}
+package Ejemplo2;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class CubosTest {
 
 @Test
 @DisplayName("Reto 2")
