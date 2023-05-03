@@ -43,7 +43,6 @@ eficiencia administrativa y organización en la gestión de la información educ
 | Sesión 6|Clases Genéricas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
 | Sesión 8|Buenas Prácticas |[Postwork](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/)|
 
-
 <br/>
 <br/>
 
