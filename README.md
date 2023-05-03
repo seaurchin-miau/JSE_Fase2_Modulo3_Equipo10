@@ -17,7 +17,7 @@ Integrantes:
 
 | Sesión                | Descripción                                                       |Postwork para el [Trabajo Final](./TrabajoFinal)|
 |-----------------------|-------------------------------------------------------------------|---------|
-| [Sesión 1](./Sesion1) | Gestión de base de datos|[Postwork1](./TrabajoFinal)|
+| [Sesión 1](./Sesion1) | Gestión de base de datos|[Postwork1](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
 | [Sesión 2](./Sesion2) | Multi Hilos y procesos concurrentes |[Postwork2](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/multithreading)|
 | [Sesión 3](./Sesion3) | Programación Funcional |[Postwork3](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
 | [Sesión 4](./Sesion4) | Procesos asíncronos |[Postwork4](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/async)|
