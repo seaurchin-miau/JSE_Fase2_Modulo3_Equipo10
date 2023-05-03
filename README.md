@@ -15,7 +15,7 @@ Integrantes:
 <img align="right" src="https://media.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif" alt="catCoding" width="200"/>
 
 
-| Sesión                | Descripción                                                       |Postwork en el [Trabajo Final](./TrabajoFinal)|
+| Sesión                | Descripción                                                       |Postwork para el [Trabajo Final](./TrabajoFinal)|
 |-----------------------|-------------------------------------------------------------------|---------|
 | [Sesión 1](./Sesion1) | Gestión de base de datos|[Postwork1](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/model)|
 | [Sesión 2](./Sesion2) | Multi Hilos y procesos concurrentes |[Postwork2](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/multithreading)|
