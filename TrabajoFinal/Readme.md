@@ -20,4 +20,4 @@
 <br/>
 <br/>
 
-[Regresar ](./JSE_Fase2_Modulo3_Equipo10)
+[Regresar ](./JSE_Fase2_Modulo3_Equipo10/README.md)
