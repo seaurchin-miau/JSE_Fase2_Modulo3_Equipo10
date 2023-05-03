@@ -1,3 +1,5 @@
+package org.bedu.jse2.sesion3;
+
 public class Convertir {
 
     private final StringtoInt parser = s-> Integer.parseInt(s);
