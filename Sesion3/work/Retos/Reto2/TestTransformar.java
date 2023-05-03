@@ -34,11 +34,11 @@ class TransformarTest {
   
     @Test
     void transfysuma(){
-       Transformar reto1 = new Transformar();
+       Transformar reto2 = new Transformar();
 
-       Integer real = reto1.transformarYSumar(CONJUNTO, s -> 1);
+       Integer real = reto2.transformarYSumar(CONJUNTO, s -> 1);
 
        assertThat(real).isEqualTo(CONJUNTO.size());
-}
+    }
 
 }
