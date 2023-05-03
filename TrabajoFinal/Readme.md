@@ -29,7 +29,7 @@ eficiencia administrativa y organización en la gestión de la información educ
 
 ## 💡 Lógica del proyecto
 
-
+![image](https://user-images.githubusercontent.com/110350110/236041903-8ccf2b6b-69fd-4d4f-8847-c5c3f04a58d6.png)
 
 ## 🚀 Desarrollo
 
