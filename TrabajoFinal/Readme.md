@@ -14,7 +14,7 @@ frecuentemente a la desorganización, falta de transparencia y pérdida de datos
 
 Por una parte, la desorganización de información puede dificultar la toma de decisiones importantes, como la planificación del mapa curricular
 y la asignación de docentes u horarios al carecerse de una estructura que permita obtener la información relevante en cada caso. 
-Otro aspecto relevante es el extravío de información (que puede ser derivado de la desorganización), que es especialmente preocupante porque puede generar graves problemas a los alumnos y docentes al momento de hacer evaluaciones o reportes académicos.
+Otro aspecto relevante es el extravío de información (que puede ser derivado de la desorganización), especialmente preocupante porque puede generar graves problemas a los alumnos y docentes al momento de hacer evaluaciones o reportes académicos.
 
 Un problema adicional es la gestión de las materias, pues muchas instituciones educativas tienen dificultades para administrar los cupos en 
 cada una de ellas y los horarios, siendo frecuente que los sistemas se saturen, existan inscripciones duplicadas mientras que otras son 
