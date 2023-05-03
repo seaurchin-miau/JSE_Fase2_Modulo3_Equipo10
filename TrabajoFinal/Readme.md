@@ -47,4 +47,4 @@ eficiencia administrativa y organización en la gestión de la información educ
 <br/>
 <br/>
 
-[Regresar ](./JSE_Fase2_Modulo3_Equipo10/README.md)
+[Regresar ](./README.md)
