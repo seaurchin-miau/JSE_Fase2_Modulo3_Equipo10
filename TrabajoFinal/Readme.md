@@ -20,6 +20,4 @@
 <br/>
 <br/>
 
-[Regresar ](../JSE_Fase2_Modulo3_Equipo10)
-
-[Siguiente ](../Sesion8)(Sesión 08)
+[Regresar ](./JSE_Fase2_Modulo3_Equipo10)
