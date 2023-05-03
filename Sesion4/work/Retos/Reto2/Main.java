@@ -9,16 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class Main {
-     static void obtenerPromedio (Stream<Integer> ids){
-        LocalTime inicio = LocalTime.now();
-        double promedio = ids.mapToDouble(id -> new SistemaMedicion().leer(id))
-                .average()
-                .orElse(0);
-        Duration tiempo = Duration.between(inicio, LocalTime.now());
-        System.out.println(Math.round(promedio)+ "en" +tiempo.toMillis()+"ms");
-    }
-    public static void main (String [] args){
+public static void main (String [] args){
         List<Integer> ids = IntStream.range(1,101)
                 .mapToObj(i->i)
                 .collect(Collectors.toList());
@@ -37,6 +28,25 @@ public class Main {
 
         Duration tiempo = Duration.between(inicio,LocalTime.now());
         System.out.println(Math.round(promedio));
-
     }
+
+      private static void obtenerMax(Stream<Integer> ids) {
+         LocalTime inicio = LocalTime.now(); 
+         double max = ids.mapToDouble(id -> new CadenaRestaurantes()
+                         .obtenerGananciasFranquicia(id))
+                 .max();
+         System.out.printf("Ganancias máximas: $%5.2f%n", max);
+         Duration tiempo = Duration.between(inicio, LocalTime.now());    
+         System.out.println((Math.round(suma * 100.) / 100.) + " en " + tiempo.toMillis() + "ms"); 
+          }
+
+          OptionalDouble maximo = futuros.stream()
+                      .mapToDouble(CompletableFuture::join)
+                      .max();
+
+          if (maximo.isPresent()) {
+               System.out.printf("Las ganancias totales son: $%5.2f%n", maximo.getAsDouble());
+          } else {
+               System.out.print("Error");
+          }
 }
