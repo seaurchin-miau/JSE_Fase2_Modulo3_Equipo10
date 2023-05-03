@@ -28,11 +28,13 @@ crucial. Este sistema proporciona una plataforma centralizada y accesible para l
 eficiencia administrativa y organización en la gestión de la información educativa; lo que se traduce en una mejor calidad educativa.
 
 ## 💡 Lógica del proyecto
-
+<p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/110350110/236042949-52e77749-d823-469c-876a-1d9b855cc272.png" width= "600">
+</p>
 
 
 ## 🚀 Desarrollo
+<div align="center">
 
 | Sesión                | Descripción                                                       |Postwork en el Trabajo Final|
 |-----------------------|-------------------------------------------------------------------|---------|
@@ -43,6 +45,7 @@ eficiencia administrativa y organización en la gestión de la información educ
 | Sesión 5|Stream Reactivos |[Postwork5](./src/main/java/org/bedu/postwork/javase2project/reactive)|
 | Sesión 6|Clases Genéricas |[Postwork6](./src/main/java/org/bedu/postwork/javase2project/tools)|
 | Sesión 8|Buenas Prácticas |[Postwork8](./src/main/java/org/bedu/postwork/javase2project/)|
+</div>
 
 <br/>
 <br/>
