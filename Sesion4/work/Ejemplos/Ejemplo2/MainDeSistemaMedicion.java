@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class Mainy {
+public class Main {
      static void obtenerPromedio (Stream<Integer> ids){
         LocalTime inicio = LocalTime.now();
         double promedio = ids.mapToDouble(id -> new SistemaMedicion().leer(id))
