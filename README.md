@@ -11,9 +11,11 @@ Integrantes:
 
 
 ## :bookmark_tabs: Carpetas de cada sesión:
+<p align="center">
+<img align="center" src="https://media.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif" alt="catCoding" width="250"/>
+</p>
 
-<img align="right" src="https://media.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif" alt="catCoding" width="250"/>
-
+<div align="center">
 
 | Sesión                | Descripción                                                       |Postwork para el [Trabajo Final](./TrabajoFinal)|
 |-----------------------|-------------------------------------------------------------------|---------|
@@ -25,3 +27,4 @@ Integrantes:
 | [Sesión 6](./Sesion6) |Clases Genéricas |[Postwork6](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/tools)|
 | [Sesión 7](./Sesion7) |Microservicios |[Postwork7](./Sesión7/work/Postwork)|
 | [Sesión 8](./Sesion8) |Buenas Prácticas |[Postwork8](./TrabajoFinal/src/main/java/org/bedu/postwork/javase2project/)|
+</div>
