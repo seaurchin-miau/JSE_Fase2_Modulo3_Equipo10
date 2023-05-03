@@ -11,18 +11,26 @@ import java.util.stream.Stream;
 
 public class CadenaRestaurantes {
 
-    static void obtenerGananciasFranquicia(Stream<Integer> ids){
-        LocalTime inicio = LocalTime.now();
-        double suma = ids.mapToDouble(id -> new SistemaMedicion().leer(id))
-                .sum();
-        Duration tiempo = Duration.between(inicio, LocalTime.now());
-        System.out.println(Math.round(suma)+ "en" +tiempo.toMillis()+"ms");
-    }
+    private Random rnd = new Random();
 
-    public static void main (String [] args){
-        List<Integer> ids = IntStream.range(0,1000)
-                .boxed()
-                .collect(Collectors.toList());
+        public double obtenerGananciasFranquicia(int id){
+            try {
+                TimeUnit.MILLISECONDS.sleep(50);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
 
-        obtenerGananciasFranquicia(ids.parallelStream());     }
+            return rnd.nextInt(40000) + 10000;
+        }
+    
+    private static void obtenerSuma(Stream<Integer> ids) {
+    LocalTime inicio = LocalTime.now(); 
+    double suma = ids.mapToDouble(id -> new CadenaRestaurantes()
+                    .obtenerGananciasFranquicia(id))
+            .sum();
+    System.out.printf("Ganancias totales: $%5.2f%n", suma);
+    Duration tiempo = Duration.between(inicio, LocalTime.now());    
+    System.out.println((Math.round(suma * 100.) / 100.) + " en " + tiempo.toMillis() + "ms"); 
     }
+    
+ }
