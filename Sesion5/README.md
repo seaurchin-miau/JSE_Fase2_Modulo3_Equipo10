@@ -1,9 +1,12 @@
 # Streams Reactivos
 
-Descripción
+La programación reactiva se relaciona con la asincronía y la programación funcional, 
+pues se enfoca en el trabajo con flujos de datos de manera asíncrona, facilitándonos
+trabajar asincrónicamente, con un código más legible y evitando usar callbacks.
+En esta sesión veremos cómo crear código reactivo con la librería Rx en Java, utilizando
+streams reactivos y el patrón Observer.
 
-
-<img align="right" src="https://user-images.githubusercontent.com/110350110/235716022-45cde06f-5a2d-4708-95c5-a20e3222f798.png" width="600"/>
+<img align="right" src="https://blog.apside.cl/content/images/2020/05/rx-1.png" width="600"/>
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
@@ -17,4 +20,8 @@ Descripción
 
 [**`Siguiente`** -> Sesión 06](../Sesion6)
 
-[**`Regresar`**](../../../)
+[Sesión 04 <- **`Regresar`**](../Sesion4)
+
+<br>
+
+[**`Volver al Inicio`**](../../../)

@@ -21,4 +21,8 @@ forma paralela y esperar su respuesta o finalización.
 
 [**`Siguiente`** -> Sesión 05](../Sesion5)
 
-[**`Regresar`**](../../../)
+[Sesión 03 <- **`Regresar`**](../Sesion3)
+
+<br>
+
+[**`Volver al Inicio`**](../../../)

@@ -12,14 +12,18 @@ Lambda y Streams que nos permiten escribir código siguiendo este paradigma.
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
-| **Ejemplos**                           | **Retos**                     |
-|----------------------------------------|-------------------------------|
-| [Ejemplo #1](./work/Ejemplos/Ejemplo1) | [Reto #1](./work/Retos/Reto1) |
-| [Ejemplo #2](./work/Ejemplos/Ejemplo2) | [Reto #2](./work/Retos/Reto2) |
-| [Ejemplo #3](./work/Ejemplos/Ejemplo3) | [Reto #3](./work/Retos/Reto3)
+| **Ejemplos**                           | **Retos**                      |
+|----------------------------------------|--------------------------------|
+| [Ejemplo #1](./work/Ejemplos/Ejemplo1) | [Reto #1](./work/Retos/Reto1)  |
+| [Ejemplo #2](./work/Ejemplos/Ejemplo2) | [Reto #2](./work/Retos/Reto2)  |
+| [Ejemplo #3](./work/Ejemplos/Ejemplo3) | 
 
 <br>
 
 [**`Siguiente`** -> Sesión 04](../Sesion4)
 
-[**`Regresar`**](../../../)
+[Sesión 02 <- **`Regresar`**](../Sesion2)
+
+<br>
+
+[**`Volver al Inicio`**](../../../)

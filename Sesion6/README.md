@@ -1,8 +1,14 @@
 # Clases genéricas
 
-Descripción
+Las clases genéricas se empleam para evitar escribir código repetitivo cuando implementemos
+métodos o clases con una lógica muy similar pero que trabajen con distintos tipos de datos,
+de modo que no tengamos que crear una clase o método específico para cada tipo de dato.
+Con las clases genéricas se define una especie de plantilla para clases, métodos, etc., donde 
+no se define el tipo de dato con el que se va a trabajar desde el inicio, sino hasta que 
+decidamos utilizarlo. El objetivo de esta sesión es entender el proceso de Type Erasure que 
+hace el compilador, para poder crear e implementar nuestros propios genéricos.
 
-<img align="right" src="https://user-images.githubusercontent.com/110350110/235718823-5583c843-3319-4644-8293-b99feaee1afe.png" width="600"/>
+<img align="right" src="https://i.ytimg.com/vi/CN27X68YO4I/maxresdefault.jpg" width="600"/>
 
 ## :bookmark_tabs: Contenidos de la sesión:
 
@@ -16,4 +22,8 @@ Descripción
 
 [**`Siguiente`** -> Sesión 07](../Sesion7)
 
-[**`Regresar`**](../../../)
+[Sesión 05 <- **`Regresar`**](../Sesion5)
+
+<br>
+
+[**`Volver al Inicio`**](../../../)

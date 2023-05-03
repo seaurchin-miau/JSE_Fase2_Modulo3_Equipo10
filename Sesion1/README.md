@@ -21,4 +21,6 @@ los datos de objetos a un formato manejable).
 
 [**`Siguiente`** -> Sesión 02](../Sesion2)
 
-[**`Regresar`**](../../../)
+[**`Volver al Inicio`**](../../../)
+
+
